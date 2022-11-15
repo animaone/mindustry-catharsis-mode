@@ -13,4 +13,5 @@
     * <b>x11docker</b>
 2. Name it Mindustry.jar and store it in <b>./shared</b> folder
 3. Run <b>buildrun.sh</b> script
+3. In the first run it will take some minutes to build. The next runs will be lightning fast.
 4. Enjoy
