@@ -1,5 +1,4 @@
-### mindustry-catharsis-mode. A docker image I realized after a day of catharsis.
-# Latest mindustry docker image
+# mindustry-catharsis-mode: Latest mindustry docker image. A docker image I realized after a day of catharsis.
 
 ## What is this?
 * This is a docker image for playing <b>Mindustry Bleeding-edge</b> in <b>Linux</b>
