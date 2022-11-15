@@ -2,7 +2,7 @@
 # Latest mindustry docker image
 
 ## What is this?
-* This is a docker image for playing mindustry bleeding edge in linux
+* This is a docker image for playing <b>Mindustry Bleeding-edge</b> in <b>Linux</b>
 
 ## How to use: 
 1. Download latest mindustry from somewhere:
