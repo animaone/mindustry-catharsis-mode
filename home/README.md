@@ -1,1 +1,1 @@
-* Home folder with mindustry saves: <b>.local/share/Mindustry</b>
+* Home folder with Mindustry saves: <b>.local/share/Mindustry</b>
