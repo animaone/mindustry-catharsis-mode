@@ -10,6 +10,7 @@
 2. Install the following tools in your Linux distro:
     * <b>docker</b>
     * <b>x11docker</b>
+    * <b>don't forget to install additional x11docker dependencies (check x11docker github repository)</b>
 2. Name the game file as Mindustry.jar and store it in <b>./game</b> folder
 2. Make sure audio (pulseaudio) is configured and working properly otherwise Mindustry will have problems to initialize.
 4. Run <b>buildrun.sh</b> script
